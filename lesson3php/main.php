@@ -9,5 +9,14 @@ if (($mosha >= $mosha_elejuar) && ($vendlindja == "Kosove")) {
     echo "Mosha juaj eshte $mosha, ju nuk keni te drejte vote";
 }
 
+$a = 50;
+$b = 10;
+if ($a==$b) {
+    echo "Yes";
+}
+else{
+    echo "No";
+}
+
 ?>
 
