@@ -10,7 +10,7 @@ if (($mosha >= $mosha_elejuar) && ($vendlindja == "Kosove")) {
 }
 
 $a = 50;
-$b = 10;
+$b = 20;
 if ($a==$b) {
     echo "Yes";
 }
