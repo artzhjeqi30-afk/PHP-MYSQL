@@ -5,7 +5,7 @@ CREATE TABLE user (
     email VARCHAR(100) NOT NULL
 );
 
-INSERT INTO user (name, surname, email) VALUES
+INSERT INTO users (name, surname, email) VALUES
 ('John', 'Smith', 'john@example.com'),
 ('Sara', 'Jones', 'sara@example.com'),
 ('Alex', 'Brown', 'alex@example.com'); 
